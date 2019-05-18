@@ -10,6 +10,7 @@
   "author": "Chase Vernon",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "express": "^4.16.4",
     "mysql2": "^1.6.5",
     "path": "^0.12.7",
