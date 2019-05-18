@@ -1,8 +1,8 @@
 {
     "development": {
       "username": "root",
-      "password": "",
-      "database": "daBurgers_db",
+      "password": "UNCbootcamp2019=",
+      "database": "Burgers_db",
       "host": "127.0.0.1",
       "dialect": "mysql"
     },
